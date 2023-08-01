@@ -35,7 +35,6 @@ const Register = () => {
                                     <p>{registerError?.message}</p>
                                 </Alert>
                             )}
-
                         </Stack>
                     </Col>
                 </Row>
